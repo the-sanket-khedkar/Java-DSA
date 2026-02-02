@@ -1,3 +1,4 @@
+package Array;
 import java.util.*;
 class Day{
     // Java Arrays Revision with travesral and input 
